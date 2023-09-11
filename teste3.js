@@ -1,0 +1,1 @@
+console.log("REMOÇÃO DE ATIVIDADE".length);
